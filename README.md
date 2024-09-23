@@ -14,6 +14,9 @@
 - [Descripción del Proyecto](#descripción-del-proyecto)
 - [Estado del Proyecto](#estado-del-proyecto)
 - [Demostración de Funciones y Aplicaciones](#demostración-de-funciones-y-aplicaciones)
+- [Desarrolladores](#desarrolladores)
+- [Conclusiones](#conclusiones)
+- [Importante](#importante)
 
 
 ## Descripción del Proyecto
@@ -65,3 +68,15 @@ A continuación se presentan algunas de las funciones clave de **Conversor de Mo
 - **A continuación un video ejemplo**: Se prueban todas las funcionalidades y validaciones de errores.
 [![Nombre del Video](https://img.freepik.com/vector-gratis/diseno-maqueta-plantilla-reproductor-video-negro_1017-36895.jpg)](https://drive.google.com/file/d/18zi14s_RE2UHQNbUgZDwemAKWrKl16N3/view?usp=sharing)
 
+Importante
+
+Antes de usar el proyecto, es necesario que en la clase API agregues tu clave API de ExchangeRate. Esto es fundamental para poder realizar las conversiones de divisas y acceder a las tasas de cambio en tiempo real. Asegúrate de seguir las instrucciones en el archivo de configuración para insertar tu clave correctamente.
+
+Desarrolladores
+
+Este proyecto ha sido desarrollado por:
+
+Arturo Hernández: Responsable del diseño y la implementación de las funcionalidades del sistema.
+Conclusiones
+
+El proyecto "Conversar de Monedas" permite a los usuarios realizar conversiones de divisas de manera sencilla y eficiente. Con tres versiones diferentes, cada una con características mejoradas, se adapta a las necesidades de los usuarios. La integración con la API de ExchangeRate garantiza que las tasas de cambio sean precisas y actualizadas. A través de este proyecto, se busca facilitar el manejo de divisas y el acceso a información financiera, permitiendo a los usuarios tomar decisiones informadas en sus transacciones.
