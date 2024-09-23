@@ -1,13 +1,13 @@
-# conversordivisas
+# Conversor Divisas
 
 
 ![Portada del Proyecto](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFV75-TfbePIknuC7TSnpPEwNZLDHAnWY66g&s) 
 
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/usuario/conversor-de-monedas)
-![GitHub last commit](https://img.shields.io/github/last-commit/usuario/conversor-de-monedas)
+![GitHub release (last Commit)](https://img.shields.io/badge/last_commit-22%2F09%2F2024-brightgreen)
 ![GitHub issues](https://img.shields.io/github/issues/usuario/conversor-de-monedas)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/usuario/conversor-de-monedas)
+
 
 ## Índice
 
