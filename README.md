@@ -14,11 +14,7 @@
 - [Descripción del Proyecto](#descripción-del-proyecto)
 - [Estado del Proyecto](#estado-del-proyecto)
 - [Demostración de Funciones y Aplicaciones](#demostración-de-funciones-y-aplicaciones)
-- [Acceso al Proyecto](#acceso-al-proyecto)
-- [Tecnologías Utilizadas](#tecnologías-utilizadas)
-- [Personas Contribuyentes](#personas-contribuyentes)
-- [Personas Desarrolladoras del Proyecto](#personas-desarrolladoras-del-proyecto)
-- [Licencia](#licencia)
+
 
 ## Descripción del Proyecto
 
@@ -69,10 +65,3 @@ A continuación se presentan algunas de las funciones clave de **Conversor de Mo
 - **A continuación un video ejemplo**: Se prueban todas las funcionalidades y validaciones de errores.
 [![Nombre del Video](https://img.freepik.com/vector-gratis/diseno-maqueta-plantilla-reproductor-video-negro_1017-36895.jpg)](https://drive.google.com/file/d/18zi14s_RE2UHQNbUgZDwemAKWrKl16N3/view?usp=sharing)
 
-## Acceso al Proyecto
-
-
-Para clonar este proyecto localmente, utiliza el siguiente comando:
-
-```bash
-git clone https://github.com/arturohdezc/conversormonedas.git
