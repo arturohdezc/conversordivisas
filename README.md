@@ -52,8 +52,14 @@ A continuación se presentan algunas de las funciones clave de **Conversor de Mo
 - **Tasas de cambio en tiempo real**: Obtén conversiones de divisas actualizadas directamente desde la API de ExchangeRate.
   ![Tasas en Tiempo Real](https://drive.google.com/uc?export=view&id=1SrxqWySOMLn744epl3t57aYaIHrqcbgx)
 - **Historial de transacciones**: Accede a los registros de todas las conversiones realizadas, con detalles sobre la fecha y las monedas utilizadas.
+  ![Historial](https://drive.google.com/uc?export=view&id=1SrxqWySOMLn744epl3t57aYaIHrqcbgx)
 - **Autocompletado (VArturo 2.0)**: Ingresa las primeras letras de una moneda para recibir sugerencias de pares de divisas.
+  ![Autocompletado](https://drive.google.com/uc?export=view&id=1ovSAU9TTxOWgpqyIc6ZtRjOh7qk9PVVw)
 - **Navegación entre versiones**: Cambia entre las versiones del proyecto (VAlura, VArturo 1.0, VArturo 2.0) y finaliza el programa desde cualquier versión.
+  ![Menu](https://drive.google.com/uc?export=view&id=1XGWbm5xNBItLhrOL-51pUZ8b66eRGoFh)
+- **Ayuda de divisas**: Se despliega un menú para cuando el usuario no sabe que divisa usa el pais la pueda identificar.
+  ![Ayuda](https://drive.google.com/uc?export=view&id=184zuOYTvygFr_CcurYKSOv04x7xV03Pb)
+
 
 - **A continuación un video ejemplo**: Se prueban todas las funcionalidades y validaciones de errores.
 [![Nombre del Video](https://img.freepik.com/vector-gratis/diseno-maqueta-plantilla-reproductor-video-negro_1017-36895.jpg)](https://drive.google.com/file/d/18zi14s_RE2UHQNbUgZDwemAKWrKl16N3/view?usp=sharing)
