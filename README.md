@@ -50,14 +50,19 @@ El proyecto está completamente desarrollado. Todas las funcionalidades principa
 A continuación se presentan algunas de las funciones clave de **Conversor de Monedas**:
 
 - **Tasas de cambio en tiempo real**: Obtén conversiones de divisas actualizadas directamente desde la API de ExchangeRate.
+  
   ![Tasas en Tiempo Real](https://drive.google.com/uc?export=view&id=1SrxqWySOMLn744epl3t57aYaIHrqcbgx)
 - **Historial de transacciones**: Accede a los registros de todas las conversiones realizadas, con detalles sobre la fecha y las monedas utilizadas.
-  ![Historial](https://drive.google.com/uc?export=view&id=1SrxqWySOMLn744epl3t57aYaIHrqcbgx)
+  
+  ![Historial](https://drive.google.com/uc?export=view&id=1XGWbm5xNBItLhrOL-51pUZ8b66eRGoFh)
 - **Autocompletado (VArturo 2.0)**: Ingresa las primeras letras de una moneda para recibir sugerencias de pares de divisas.
-  ![Autocompletado](https://drive.google.com/uc?export=view&id=1ovSAU9TTxOWgpqyIc6ZtRjOh7qk9PVVw)
+  
+  ![Autocompletado](https://drive.google.com/uc?export=view&id=1D028jq4Xcn2muk0vkabQXQ92nYtTjR8s)
 - **Navegación entre versiones**: Cambia entre las versiones del proyecto (VAlura, VArturo 1.0, VArturo 2.0) y finaliza el programa desde cualquier versión.
-  ![Menu](https://drive.google.com/uc?export=view&id=1XGWbm5xNBItLhrOL-51pUZ8b66eRGoFh)
+  
+  ![Menu](https://drive.google.com/uc?export=view&id=1ovSAU9TTxOWgpqyIc6ZtRjOh7qk9PVVw)
 - **Ayuda de divisas**: Se despliega un menú para cuando el usuario no sabe que divisa usa el pais la pueda identificar.
+  
   ![Ayuda](https://drive.google.com/uc?export=view&id=184zuOYTvygFr_CcurYKSOv04x7xV03Pb)
 
 
