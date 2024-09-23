@@ -27,8 +27,6 @@
 ## Importante
 
 Antes de usar el programa, **es necesario que agreges tu clave API de ExchangeRate en la clase API.** Esto es fundamental para poder realizar las conversiones de divisas y acceder a las tasas de cambio en tiempo real. 
-Agregalo en esta Clase:
-[Ver API](gitconversordemonedas/src/com/aluracursos/conversormonedas/modulos/Api.java)
 
 
 **Además es necesario instalar GSON**
