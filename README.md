@@ -41,9 +41,9 @@ Todas las versiones permiten navegar entre ellas y finalizar el programa desde c
 
 ## Estado del Proyecto
 
-![Estado del Proyecto](https://img.shields.io/badge/estado-en%20desarrollo-yellow)
+![Estado del Proyecto](https://img.shields.io/badge/estado-terminado-brightgreen)
 
-El proyecto se encuentra en fase de desarrollo activo. Las principales funcionalidades están implementadas, pero se siguen añadiendo mejoras en la interfaz y las características de conversión.
+El proyecto está completamente desarrollado. Todas las funcionalidades principales están implementadas, y el sistema de conversión de divisas funciona de manera estable. Las versiones VAlura, VArturo 1.0 y VArturo 2.0 están listas para su uso con todas las características descritas.
 
 ## Demostración de Funciones y Aplicaciones
 
@@ -58,11 +58,8 @@ A continuación se presentan algunas de las funciones clave de **Conversor de Mo
 
 ## Acceso al Proyecto
 
-Puedes acceder al proyecto a través del siguiente enlace:
-
-[Conversor de Monedas - Demo](https://link_al_proyecto_demo.com)
 
 Para clonar este proyecto localmente, utiliza el siguiente comando:
 
 ```bash
-git clone https://github.com/usuario/conversar-de-monedas.git
+git clone https://github.com/arturohdezc/conversormonedas.git
