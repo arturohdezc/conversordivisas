@@ -50,6 +50,7 @@ El proyecto está completamente desarrollado. Todas las funcionalidades principa
 A continuación se presentan algunas de las funciones clave de **Conversor de Monedas**:
 
 - **Tasas de cambio en tiempo real**: Obtén conversiones de divisas actualizadas directamente desde la API de ExchangeRate.
+  ![Tasas en Tiempo real](https://drive.google.com/file/d/1SrxqWySOMLn744epl3t57aYaIHrqcbgx/view?usp=sharing)
 - **Historial de transacciones**: Accede a los registros de todas las conversiones realizadas, con detalles sobre la fecha y las monedas utilizadas.
 - **Autocompletado (VArturo 2.0)**: Ingresa las primeras letras de una moneda para recibir sugerencias de pares de divisas.
 - **Navegación entre versiones**: Cambia entre las versiones del proyecto (VAlura, VArturo 1.0, VArturo 2.0) y finaliza el programa desde cualquier versión.
