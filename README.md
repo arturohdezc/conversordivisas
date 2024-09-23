@@ -1,7 +1,7 @@
 # conversordivisas
 
 
-![Portada del Proyecto]([https://link_a_la_imagen_de_portada.com](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFV75-TfbePIknuC7TSnpPEwNZLDHAnWY66g&s)) 
+![Portada del Proyecto](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFV75-TfbePIknuC7TSnpPEwNZLDHAnWY66g&s) 
 
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/usuario/conversor-de-monedas)
