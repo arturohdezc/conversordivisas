@@ -1,0 +1,26 @@
+[
+  {
+    "base_code": "USD",
+    "target_code": "MXN",
+    "conversion_rate": "19.3857",
+    "conversion_result": "3877.14",
+    "cantidad_conversion": "200.0",
+    "hora_actual": "2024-09-21T14:57:50"
+  },
+  {
+    "base_code": "USD",
+    "target_code": "MXN",
+    "conversion_rate": "19.3929",
+    "conversion_result": "1939.29",
+    "cantidad_conversion": "100.0",
+    "hora_actual": "2024-09-23T11:52:41"
+  },
+  {
+    "base_code": "MXN",
+    "target_code": "USD",
+    "conversion_rate": "0.05157",
+    "conversion_result": "100.01",
+    "cantidad_conversion": "1939.29",
+    "hora_actual": "2024-09-23T11:53:03"
+  }
+]

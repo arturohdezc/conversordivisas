@@ -1,0 +1,50 @@
+[
+  {
+    "base_code": "USD",
+    "target_code": "ARS",
+    "conversion_rate": "965.75",
+    "conversion_result": "193150.00",
+    "cantidad_conversion": "200.0",
+    "hora_actual": "2024-09-21T02:05:03"
+  },
+  {
+    "base_code": "ARS",
+    "target_code": "USD",
+    "conversion_rate": "0.0010354646647683149",
+    "conversion_result": "0.21",
+    "cantidad_conversion": "200.0",
+    "hora_actual": "2024-09-21T02:05:06"
+  },
+  {
+    "base_code": "USD",
+    "target_code": "MXN",
+    "conversion_rate": "19.3857",
+    "conversion_result": "193.86",
+    "cantidad_conversion": "10.0",
+    "hora_actual": "2024-09-21T02:05:16"
+  },
+  {
+    "base_code": "MXN",
+    "target_code": "USD",
+    "conversion_rate": "0.051584415316444594",
+    "conversion_result": "10.32",
+    "cantidad_conversion": "200.0",
+    "hora_actual": "2024-09-21T02:05:20"
+  },
+  {
+    "base_code": "USD",
+    "target_code": "ARS",
+    "conversion_rate": "965.75",
+    "conversion_result": "96575.00",
+    "cantidad_conversion": "100.0",
+    "hora_actual": "2024-09-23T11:49:47"
+  },
+  {
+    "base_code": "ARS",
+    "target_code": "USD",
+    "conversion_rate": "0.0010354646647683149",
+    "conversion_result": "100.00",
+    "cantidad_conversion": "96575.0",
+    "hora_actual": "2024-09-23T11:49:58"
+  }
+]
