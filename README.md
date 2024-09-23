@@ -54,7 +54,7 @@ A continuación se presentan algunas de las funciones clave de **Conversor de Mo
 - **Autocompletado (VArturo 2.0)**: Ingresa las primeras letras de una moneda para recibir sugerencias de pares de divisas.
 - **Navegación entre versiones**: Cambia entre las versiones del proyecto (VAlura, VArturo 1.0, VArturo 2.0) y finaliza el programa desde cualquier versión.
 
-![Demostración](https://link_a_la_imagen_de_demostracion.com) <!-- Sustituir por una imagen o GIF real -->
+![Demostración](https://drive.google.com/file/d/18zi14s_RE2UHQNbUgZDwemAKWrKl16N3/view?usp=sharing) 
 
 ## Acceso al Proyecto
 
