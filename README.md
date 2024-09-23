@@ -29,10 +29,10 @@
 Este proyecto cuenta con tres versiones principales, cada una ofreciendo características distintas:
 
 - **VAlura**: 
-  En esta versión, se utilizan las conversiones recomendadas por la plataforma educativa ALURA, calculadas a partir del dólar estadounidense (USD) hacia otras monedas (BRL, ARS, MXN, COP). Solo se permite la conversión entre estas divisas, y se puede acceder a un historial de transacciones que muestra los registros de las conversiones realizadas y la fecha de las mismas.
+  En esta versión, se utilizan las conversiones recomendadas por la plataforma educativa ALURA, calculadas a partir del dólar estadounidense (USD) hacia otras monedas (BRL, ARS, MXN, COP) y biceversa. Solo se permite la conversión entre estas divisas, y se puede acceder a un historial de transacciones que muestra los registros de las conversiones realizadas y la fecha de las mismas.
 
 - **VArturo 1.0**: 
-  Esta versión permite la conversión entre pares de divisas directamente desde la API de ExchangeRate, eliminando la limitación de utilizar solo el USD. Aunque se sigue enfocando en las mismas monedas (USD, BRL, ARS, MXN, COP), el proceso de conversión es más flexible. También se puede acceder al historial de transacciones para visualizar las operaciones realizadas.
+  Esta versión permite la conversión entre pares de divisas directamente desde la API de ExchangeRate. Aunque se sigue enfocando en las mismas monedas (USD, BRL, ARS, MXN, COP), el proceso de conversión es más sencillo. También se puede acceder al historial de transacciones para visualizar las operaciones realizadas.
 
 - **VArturo 2.0**: 
   La versión más avanzada del proyecto, VArturo 2.0, amplía el acceso a cualquier par de divisas disponibles en la API. Ofrece una función de autocompletado primitiva: al escribir la primera letra de una moneda, se sugieren todas las opciones que coincidan, ayudando al usuario a seleccionar la moneda correcta. Además, cuenta con un archivo de ayuda que proporciona información sobre qué moneda corresponde a cada país. Como en las versiones anteriores, se puede acceder al historial de transacciones.
