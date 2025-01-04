@@ -1,7 +1,7 @@
 # Conversor Divisas
 
 
-![Portada del Proyecto](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFV75-TfbePIknuC7TSnpPEwNZLDHAnWY66g&s) 
+![Portada del Proyecto](https://drive.google.com/file/d/1XQVOvD9Alh8YPZXH87qdF_0BUa1xBPeU/view?usp=share_link) 
 
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/usuario/conversor-de-monedas)
